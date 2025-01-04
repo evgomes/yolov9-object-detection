@@ -21,3 +21,7 @@ The notebook has been developed using [Google Colab](https://colab.research.goog
 # Image and Video Sources
 
 The image and video used in this example were obtained from [Pexels](https://www.pexels.com/). You can find the download sources in the images and videos folders of this repository.
+
+# Sample Results
+
+![Detected objects in an image of people playing football](https://raw.githubusercontent.com/evgomes/yolov9-object-detection/refs/heads/main/images/image-1-output.jpg)
